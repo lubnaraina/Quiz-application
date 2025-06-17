@@ -1,0 +1,13 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.question {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  padding: 15px;
+  margin-bottom: 20px;
+}
